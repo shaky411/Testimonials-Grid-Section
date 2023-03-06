@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](assets/SCR-20230215-kf1.png)
+![Alt text](assets/images/Project_1.png)
 
 ![Alt text](assets/SCR-20230215-kf8.png)
 
